@@ -10,5 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "sw-precache": "^5.1.0"
   }
 }
