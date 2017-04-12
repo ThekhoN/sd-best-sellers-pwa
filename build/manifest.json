@@ -1,6 +1,6 @@
 {
   "name": "Snapdeal Best Sellers",
-  "short_name": "SD Best Sellers",
+  "short_name": "Best Sellers",
   "start_url": "./",
   "display": "standalone",
   "orientation": "portrait",
